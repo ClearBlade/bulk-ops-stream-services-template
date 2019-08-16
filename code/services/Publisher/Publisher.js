@@ -6,7 +6,7 @@ function Publisher(req, resp) {
   }
   //log("TESTING");
   for(var i=0 ;i<30;i++){
-    messaging.publish("entity/device-10", JSON.stringify(msg));
+    messaging.publish("devices/device-10", JSON.stringify(msg));
   }
   resp.success('Success');
 }
