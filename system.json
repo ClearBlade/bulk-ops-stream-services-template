@@ -1,0 +1,9 @@
+{
+    "auth": true,
+    "description": "",
+    "messaging_url": "endurance-s.clearblade.com:1883",
+    "name": "bulk-ops-stream-service",
+    "platform_url": "https://endurance-s.clearblade.com",
+    "system_key": "aab8d7d40b8c8ea7dee4dae2f1f901",
+    "system_secret": "AAB8D7D40BA8A3C697EFCBE2ECE301"
+}

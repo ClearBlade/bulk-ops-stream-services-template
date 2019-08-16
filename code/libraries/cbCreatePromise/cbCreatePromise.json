@@ -1,0 +1,7 @@
+{
+    "api": "",
+    "dependencies": "QPromiseLib,clearblade",
+    "description": "",
+    "name": "cbCreatePromise",
+    "visibility": "system"
+}

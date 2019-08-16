@@ -1,0 +1,62 @@
+{
+    "items": [
+        {
+            "data": "I am active-3",
+            "item_id": "22ab95ff-1aa5-40ce-8fd2-f4372ec956a4",
+            "service_id": "8626587f-391f-4843-b3d6-de267c1c2ae1"
+        },
+        {
+            "data": "I am active-6",
+            "item_id": "2bf36ca4-5255-456c-9636-49f4208779a3",
+            "service_id": "8626587f-391f-4843-b3d6-de267c1c2ae1"
+        },
+        {
+            "data": "I am active-5",
+            "item_id": "48d6cfe7-aa76-4f15-bd58-622cf2f69eb4",
+            "service_id": "8626587f-391f-4843-b3d6-de267c1c2ae1"
+        },
+        {
+            "data": "I am active-4",
+            "item_id": "6f77ed49-2b27-41ca-a0cf-569ea4841c54",
+            "service_id": "8626587f-391f-4843-b3d6-de267c1c2ae1"
+        },
+        {
+            "data": "I am active-1",
+            "item_id": "9e2e6616-2984-4f3b-81ff-0a8d3a1ed0a3",
+            "service_id": "8626587f-391f-4843-b3d6-de267c1c2ae1"
+        },
+        {
+            "data": "I am active-2",
+            "item_id": "d743600b-000f-4e8d-81f9-3898d3e1a0e0",
+            "service_id": "8626587f-391f-4843-b3d6-de267c1c2ae1"
+        },
+        {
+            "data": "I am active-8",
+            "item_id": "f0ece698-effb-42bc-ba79-6e22ff3e999b",
+            "service_id": "8626587f-391f-4843-b3d6-de267c1c2ae1"
+        },
+        {
+            "data": "I am active-7",
+            "item_id": "fb4df242-28fa-4fe7-a6ad-fb13e27c2087",
+            "service_id": "8626587f-391f-4843-b3d6-de267c1c2ae1"
+        }
+    ],
+    "name": "example_collection",
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "service_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "data",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "auto_balance": true,
+    "auto_restart": false,
+    "concurrency": 1,
+    "dependencies": "log,clearblade,QPromiseLib,cbCreatePromise",
+    "execution_timeout": -1,
+    "logging_enabled": true,
+    "name": "BulkTimeBasedWriter",
+    "params": [
+        "{}"
+    ],
+    "run_user": ""
+}
